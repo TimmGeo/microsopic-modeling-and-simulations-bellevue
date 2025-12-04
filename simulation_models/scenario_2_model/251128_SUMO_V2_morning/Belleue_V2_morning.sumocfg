@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-11-20 08:27:32 by Eclipse SUMO sumo Version 1.19.0 -->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Bellevue_V2.net.xml"/>
+        <route-files value="demand_morning.xml"/>
+        <additional-files value="detectors.add.xml"/>
+    </input>
+
+    <output>
+        <!-- Lane-based aggregated data -->
+        <lanedata-output value="Output_LaneData_V2_morning.xml"/>
+    </output>
+
+</configuration>

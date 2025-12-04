@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-12-03 14:53:07 by Eclipse SUMO netedit Version 1.24.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <inductionLoop id="e1_011" lane="-172222117#1_0" pos="4.58" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_012" lane="-172222117#1_1" pos="3.82" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_013" lane="220427534_0" pos="474.17" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_014" lane="172222117#0.41_0" pos="39.11" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_021" lane="-4398888#0_0" pos="70.01" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_022" lane="-4398888#0_1" pos="69.93" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_023" lane="220427534_0" pos="43.95" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_024" lane="60447878_0" pos="24.99" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_031" lane="27361257_0" pos="108.03" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_032" lane="27361257_1" pos="108.12" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_033" lane="27361247_1" pos="8.61" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_034" lane="27361247_0" pos="9.05" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_041" lane="4394265#1_0" pos="0.89" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_042" lane="534851512#1_0" pos="49.74" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_051" lane="27361348#0_0" pos="6.18" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_052" lane="27361348#0_1" pos="6.36" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_053" lane="-27361348#1_2" pos="114.47" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_054" lane="-27361348#1_1" pos="114.43" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_055" lane="-27361348#1_0" pos="114.52" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_061" lane="313458176#2.175_0" pos="36.92" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_062" lane="313458176#2.175_1" pos="36.16" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_063" lane="313458176#2.175_2" pos="36.79" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_064" lane="-313458176#4_1" pos="4.32" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_065" lane="-313458176#4_0" pos="5.46" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_071" lane="-E1_0" pos="460.79" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+    <inductionLoop id="e1_072" lane="E1_0" pos="472.25" period="1800.00" file="Output_LoopData_V1_morning.xml"/>
+</additional>
